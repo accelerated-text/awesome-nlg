@@ -1,6 +1,6 @@
 # Grammar
 
-- (OpenCCG)[https://github.com/OpenCCG/openccg]
+- [OpenCCG](https://github.com/OpenCCG/openccg)
 - [GrammaticalFramework](http://www.grammaticalframework.org/) 
 - [EasyCCG](https://github.com/mikelewis0/easyccg)
 - [CCG Lab](https://github.com/bozsahin/ccglab)
