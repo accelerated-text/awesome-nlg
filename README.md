@@ -1,26 +1,29 @@
-# Models
-
-TODO. List all deep learning models which are used for generation GPT-2 etc
-
 # Grammar
 
-- (OpenCCG)[]
+- (OpenCCG)[https://github.com/OpenCCG/openccg]
 - [GrammaticalFramework](http://www.grammaticalframework.org/) 
 - [EasyCCG](https://github.com/mikelewis0/easyccg)
 - [CCG Lab](https://github.com/bozsahin/ccglab)
 
-# Ralizers
+# Narrative/plot generation
+
+- [National Novel Generation Month ](https://github.com/nanogenmo)
+- [Random Story Generator](https://github.com/aherriot/story-generator)
+
+
+# Realizers
 
 - [SimpleNLG](https://github.com/simplenlg/simplenlg)
 - [Genl](https://github.com/kowey/GenI)
 
-# Narrative/plot generation
+# Summarization
 
-TODO go over the following
-- https://github.com/nanogenmo
-- https://www.writerswrite.com/fiction/plot-generators/
-- https://github.com/annetropy/tarot-narrative
-- https://www.aclweb.org/anthology/W19-3407.pdf
+- [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data)
+
+# Models
+
+TODO. List all deep learning models which are used for generation GPT-2 etc
+
 
 # Can be used for NLG
 
