@@ -31,6 +31,8 @@ TODO. List all deep learning models which are used for generation GPT-2 etc
 # Datasets
 
 - [WebNLG](https://github.com/ThiagoCF05/webnlg)
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E)
+- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg)
 
 
 # Can be used for NLG
