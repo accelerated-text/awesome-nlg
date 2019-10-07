@@ -28,6 +28,10 @@
 
 TODO. List all deep learning models which are used for generation GPT-2 etc
 
+# Datasets
+
+- [WebNLG](https://github.com/ThiagoCF05/webnlg)
+
 
 # Can be used for NLG
 
