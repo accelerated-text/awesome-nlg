@@ -47,7 +47,3 @@
 
 - [NLG-eval](https://github.com/Maluuba/nlg-eval)
 
-
-# Can be used for NLG
-
-https://github.com/amrisi/amr-guidelines
