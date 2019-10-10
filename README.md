@@ -1,4 +1,8 @@
-# Neural net NLG
+# Products
+
+[Accelerated Text](https://github.com/tokenmill/accelerated-text)
+
+# Neural Net NLG
 
 - [Transformers](https://github.com/huggingface/transformers)
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator)
