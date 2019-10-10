@@ -1,4 +1,6 @@
-# Products
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+# Products 
 
 [Accelerated Text](https://github.com/tokenmill/accelerated-text)
 
