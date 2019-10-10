@@ -34,6 +34,10 @@ TODO. List all deep learning models which are used for generation GPT-2 etc
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E)
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg)
 
+# Evaluation
+
+- [NLG-eval](https://github.com/Maluuba/nlg-eval)
+
 
 # Can be used for NLG
 
