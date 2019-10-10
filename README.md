@@ -18,12 +18,12 @@
 - [EasyCCG](https://github.com/mikelewis0/easyccg)
 - [CCG Lab](https://github.com/bozsahin/ccglab)
 
-# Narrative/plot generation
+# Narrative/Plot Generation
 
 - [National Novel Generation Month ](https://github.com/nanogenmo)
 - [Random Story Generator](https://github.com/aherriot/story-generator)
 
-# Templating languages
+# Templating Languages
 
 - [nalgene](https://github.com/spro/nalgene)
 
