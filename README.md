@@ -1,6 +1,11 @@
-# Products
+# Neural net NLG
 
-- [Accelerated Text](https://github.com/tokenmill/accelerated-text)
+- [Transformers](https://github.com/huggingface/transformers)
+- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator)
+
+# Dialog Systems
+
+- [TGen](https://github.com/UFAL-DSG/tgen)
 
 # Grammar
 
@@ -14,6 +19,10 @@
 - [National Novel Generation Month ](https://github.com/nanogenmo)
 - [Random Story Generator](https://github.com/aherriot/story-generator)
 
+# Templating languages
+
+- [nalgene](https://github.com/spro/nalgene)
+
 
 # Realizers
 
@@ -23,10 +32,6 @@
 # Summarization
 
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data)
-
-# Models
-
-TODO. List all deep learning models which are used for generation GPT-2 etc
 
 # Datasets
 
