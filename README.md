@@ -15,10 +15,11 @@
 
 # Grammar
 
-- [OpenCCG](https://github.com/OpenCCG/openccg)
-- [GrammaticalFramework](http://www.grammaticalframework.org/) 
-- [EasyCCG](https://github.com/mikelewis0/easyccg)
+- [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG
+- [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications
+- [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG
 - [CCG Lab](https://github.com/bozsahin/ccglab)
+- [CCGweb](texttheater/ccgweb) - A Web platform for parsing and annotation
 
 # Narrative/Plot Generation
 
