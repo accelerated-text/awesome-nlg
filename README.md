@@ -4,14 +4,11 @@
 
 - [Accelerated Text](https://github.com/tokenmill/accelerated-text)
 
-# Neural Net NLG
+# Dialog
 
-- [Transformers](https://github.com/huggingface/transformers)
-- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator)
-
-# Dialog Systems
-
-- [TGen](https://github.com/UFAL-DSG/tgen)
+- [RNNLG](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
+- [NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
+- [TGen](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
 
 # Grammar
 
@@ -26,10 +23,15 @@
 - [National Novel Generation Month ](https://github.com/nanogenmo)
 - [Random Story Generator](https://github.com/aherriot/story-generator)
 
+
+# Neural Net NLG
+
+- [Transformers](https://github.com/huggingface/transformers)
+- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator)
+
 # Templating Languages
 
 - [nalgene](https://github.com/spro/nalgene)
-
 
 # Realizers
 
@@ -49,4 +51,3 @@
 # Evaluation
 
 - [NLG-eval](https://github.com/Maluuba/nlg-eval)
-
