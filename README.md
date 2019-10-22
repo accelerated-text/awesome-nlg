@@ -2,7 +2,7 @@
 
 # Products 
 
-[Accelerated Text](https://github.com/tokenmill/accelerated-text)
+- [Accelerated Text](https://github.com/tokenmill/accelerated-text)
 
 # Neural Net NLG
 
