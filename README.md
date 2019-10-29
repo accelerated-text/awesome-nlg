@@ -12,11 +12,11 @@
 
 # Grammar
 
-- [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG
+- [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
 - [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications
-- [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG
+- [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 - [CCG Lab](https://github.com/bozsahin/ccglab)
-- [CCGweb](texttheater/ccgweb) - A Web platform for parsing and annotation
+- [CCGweb](texttheater/ccgweb) - A Web platform for parsing and annotation.
 
 # Narrative/Plot Generation
 
@@ -35,8 +35,10 @@
 
 # Realizers
 
-- [SimpleNLG](https://github.com/simplenlg/simplenlg)
-- [Genl](https://github.com/kowey/GenI)
+- [SimpleNLG](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
+- [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
+- [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2 
+- [Genl](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 
 # Summarization
 
