@@ -1,9 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Products 
-
-- [Accelerated Text](https://github.com/tokenmill/accelerated-text)
-
 # Dialog
 
 - [RNNLG](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
@@ -18,11 +14,10 @@
 - [CCG Lab](https://github.com/bozsahin/ccglab)
 - [CCGweb](texttheater/ccgweb) - A Web platform for parsing and annotation.
 
-# Narrative/Plot Generation
+# Narrative Generation
 
-- [National Novel Generation Month ](https://github.com/nanogenmo)
-- [Random Story Generator](https://github.com/aherriot/story-generator)
-
+- [Random Story Generator](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
+- [Tracery](https://github.com/galaxykate/tracery) - A story-grammar generation library for javascript.
 
 # Neural Net NLG
 
@@ -53,3 +48,8 @@
 # Evaluation
 
 - [NLG-eval](https://github.com/Maluuba/nlg-eval)
+
+# Products 
+
+- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+- [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
