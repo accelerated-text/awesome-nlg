@@ -11,7 +11,7 @@
 - [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
 - [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications
 - [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
-- [CCG Lab](https://github.com/bozsahin/ccglab)
+- [CCG Lab](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 - [CCGweb](texttheater/ccgweb) - A Web platform for parsing and annotation.
 
 # Narrative Generation
