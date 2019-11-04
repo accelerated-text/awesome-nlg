@@ -1,6 +1,6 @@
 # Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Table of Contents
+## Contents
 
 - [Datasets](#datasets)
 - [Dialog](#dialog)
@@ -8,10 +8,9 @@
 - [Grammar](#grammar)
 - [Narrative Generation](#narrative-generation)
 - [Neural Net NLG](#neural-net-nlg)
+- [Products](#products)
 - [Realizers](#realizers)
 - [Templating Languages](#templating-languages)
-- [Products](#products)
-- [Licence](#licence)
 
 ## Datasets
 
@@ -49,6 +48,11 @@
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
+## Products 
+
+- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+- [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
+
 ## Realizers
 
 - [SimpleNLG](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
@@ -62,11 +66,8 @@
 - [nalgene](https://github.com/spro/nalgene) - Natural language generation language.
 - [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output. 
 
-## Products 
+## License
 
-- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
-- [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
-
-## Licence
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [TokenMill](https://www.tokenmill.lt) has waived all copyright and related or neighboring rights to this work.
