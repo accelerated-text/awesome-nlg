@@ -47,7 +47,8 @@
 
 # Evaluation
 
-- [NLG-eval](https://github.com/Maluuba/nlg-eval)
+- [NLG-eval](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
+- [VizSeq](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
 
 # Products 
 
