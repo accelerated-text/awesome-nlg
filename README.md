@@ -21,12 +21,16 @@
 
 # Neural Net NLG
 
-- [Transformers](https://github.com/huggingface/transformers)
-- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator)
+- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+- [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 # Templating Languages
 
-- [nalgene](https://github.com/spro/nalgene)
+- [calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
+- [nalgene](https://github.com/spro/nalgene) - Natural language generation language.
+- [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C#, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output. 
+
 
 # Realizers
 
@@ -35,15 +39,11 @@
 - [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2 
 - [Genl](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 
-# Summarization
-
-- [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data)
-
 # Datasets
 
-- [WebNLG](https://github.com/ThiagoCF05/webnlg)
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E)
-- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg)
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG described at INLG 2018.
+- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.
 
 # Evaluation
 
