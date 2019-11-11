@@ -1,5 +1,7 @@
 # Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+A list of Natural Language Generation projects and datasets.
+
 ## Contents
 
 - [Datasets](#datasets)
