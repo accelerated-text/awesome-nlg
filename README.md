@@ -58,10 +58,11 @@ A list of Natural Language Generation projects and datasets.
 
 ## Realizers
 
+- [Genl](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
+- [JSrealB](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
 - [SimpleNLG](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 - [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
 - [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
-- [Genl](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 
 ## Templating Languages
 
