@@ -8,6 +8,7 @@ A list of Natural Language Generation projects and datasets.
 - [Dialog](#dialog)
 - [Evaluation](#evaluation)
 - [Grammar](#grammar)
+- [Libraries](#libraries)
 - [Narrative Generation](#narrative-generation)
 - [Neural Net NLG](#neural-net-nlg)
 - [Products](#products)
@@ -38,6 +39,10 @@ A list of Natural Language Generation projects and datasets.
 - [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 - [CCG Lab](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
 - [CCGweb](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
+
+## Libraries
+
+- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
 ## Narrative Generation
 
