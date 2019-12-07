@@ -15,6 +15,7 @@ A list of Natural Language Generation projects and datasets.
 - [Products](#products)
 - [Realizers](#realizers)
 - [Templating Languages](#templating-languages)
+- [Videos](#videos)
 
 ## Datasets
 
@@ -87,6 +88,12 @@ A list of Natural Language Generation projects and datasets.
 - [calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
 - [nalgene](https://github.com/spro/nalgene) - Natural language generation language.
 - [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output. 
+
+## Videos
+
+- [Natural Language Generation (Introduction)](https://www.youtube.com/watch?v=4fjM72lbJaw)
+- [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
+- [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)
 
 ## License
 
