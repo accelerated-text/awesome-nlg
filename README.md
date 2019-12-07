@@ -23,6 +23,7 @@ A list of Natural Language Generation projects and datasets.
 
 ## Dialog
 
+- [Chatito](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
 - [RNNLG](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 - [NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
 - [TGen](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
