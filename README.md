@@ -11,6 +11,7 @@ A list of Natural Language Generation projects and datasets.
 - [Libraries](#libraries)
 - [Narrative Generation](#narrative-generation)
 - [Neural Net NLG](#neural-net-nlg)
+- [Papers](#papers)
 - [Products](#products)
 - [Realizers](#realizers)
 - [Templating Languages](#templating-languages)
@@ -57,6 +58,16 @@ A list of Natural Language Generation projects and datasets.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+
+## Papers
+- [A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG](https://www.inlg2019.com/assets/papers/178_Paper.pdf)
+- [A Personalized Data-to-Text Support Tool for Cancer Patients](https://www.inlg2019.com/assets/papers/28_Paper.pdf)
+- [Controlling Contents in Data-to-Document Generation withHuman-Designed Topic Labels](https://www.inlg2019.com/assets/papers/79_Paper.pdf)
+- [Hotel Scribe: Generating High Variation Hotel Descriptions](https://www.inlg2019.com/assets/papers/44_Paper.pdf)
+- [Natural Language Generation enhances human decision-making withuncertain information](https://arxiv.org/pdf/1606.03254.pdf)
+- [Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
+- [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.inlg2019.com/assets/papers/32_Paper.pdf)
+
 
 ## Products 
 
