@@ -20,6 +20,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Datasets
 
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG described at INLG 2018.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.
 
