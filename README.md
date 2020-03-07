@@ -106,6 +106,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Videos
 
 - [Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter](https://www.youtube.com/watch?v=kFRw-wk5YOA)
+- [Imitation Learning and its Application to Natural Language Generation](https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation)
 - [Natural Language Generation (Introduction)](https://www.youtube.com/watch?v=4fjM72lbJaw)
 - [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
 - [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)
