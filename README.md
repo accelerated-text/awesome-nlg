@@ -89,6 +89,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 - [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
 - [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
+- [RosaeNLG](https://rosaenlg.org) - A production-grade open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 
 ## Realizers
 
