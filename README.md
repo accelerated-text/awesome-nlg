@@ -64,8 +64,9 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [Random Story Generator](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
 - [Tracery](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
 
-## Neural natural language generation
+## Neural Natural Language Generation
 
+- [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [graph-2-text](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
 - [PPLM](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
