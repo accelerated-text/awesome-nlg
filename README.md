@@ -12,7 +12,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [Grammar](#grammar)
 - [Libraries](#libraries)
 - [Narrative Generation](#narrative-generation)
-- [Neural natural language generation](#neural-net-nlg)
+- [Neural Natural Language Generation](#neural-net-nlg)
 - [Papers and Articles](#papers)
 - [Products](#products)
 - [Realizers](#realizers)
@@ -72,6 +72,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [PPLM](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 - [Texar](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+- [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 - [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
