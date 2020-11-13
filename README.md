@@ -13,7 +13,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [Libraries](#libraries)
 - [Narrative Generation](#narrative-generation)
 - [Neural Natural Language Generation](#neural-net-nlg)
-- [Papers and Articles](#papers)
+- [Papers and Articles](#papers-and-articles)
 - [Products](#products)
 - [Realizers](#realizers)
 - [Templating Languages](#templating-languages)
