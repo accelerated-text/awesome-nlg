@@ -79,6 +79,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
 
 ## Papers and Articles
+- [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 - [2020: Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge](https://www.sciencedirect.com/science/article/pii/S0885230819300919)
 - [2020: How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [2020: Natural language generation: The commercial state ofthe art in 2020](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BA2417D73AF29F8073FF5B611CDEB97F/S135132492000025Xa.pdf/natural_language_generation_the_commercial_state_of_the_art_in_2020.pdf)
