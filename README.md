@@ -42,6 +42,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Evaluation
 
+- [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt)
 - [compare-mt](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 - [NLG-eval](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
 - [VizSeq](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
