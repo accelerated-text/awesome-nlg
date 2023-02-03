@@ -60,6 +60,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 - [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 - [Number Words](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+- [Writebot](https://docs.writebot.app) - A NodeJS library that makes it easier to use GPT-3 by using presets.
 
 ## Narrative Generation
 
