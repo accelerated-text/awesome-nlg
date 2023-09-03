@@ -14,6 +14,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [Narrative Generation](#narrative-generation)
 - [Neural Natural Language Generation](#neural-natural-language-generation)
 - [Papers and Articles](#papers-and-articles)
+- [Resources](#resources)
 - [Products](#products)
 - [Realizers](#realizers)
 - [Templating Languages](#templating-languages)
@@ -100,6 +101,9 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 - [2016: Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
 
+## Resources
+
+- [Synthical](https://synthical.com) - AI-powered collaborative research environment with latest papers on NLG
 
 ## Products 
 
