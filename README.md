@@ -72,6 +72,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 - [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [graph-2-text](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
+- [lightnlg](https://github.com/kasnerz/lightnlg) - A minimalistic codebase for finetuning and interacting with NLG models using PyTorch Lightning.
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
 - [PPLM](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 - [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
